@@ -2,7 +2,7 @@
 <RevitAddIns>
   <AddIn Type="Application">
     <Name>HamitScheduleSync</Name>
-    <Assembly>C:\Users\Hamit\Desktop\Laboratuvar\RevitAPI-ANTIGRAVITY\HamitScheduleSync\bin\Debug\net8.0-windows\HamitScheduleSync.dll</Assembly>
+    <Assembly>%PROGRAMDATA%\Autodesk\Revit\Addins\2026\HamitScheduleSync.dll</Assembly>
     <AddInId>A4BD5EE1-23F2-4217-91CB-74E2BF308C8F</AddInId>
     <FullClassName>HamitScheduleSync.App</FullClassName>
     <VendorId>VISION</VendorId>

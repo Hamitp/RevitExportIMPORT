@@ -53,3 +53,16 @@ ProjectCRuntimeBuildLog.txt
 # Addin packages
 .addin/
 %PROGRAMDATA%/
+
+# Cursor / IDE
+.cursor/
+*.code-workspace
+
+# OS
+Thumbs.db
+.DS_Store
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
